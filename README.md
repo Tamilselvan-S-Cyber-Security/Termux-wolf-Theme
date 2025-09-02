@@ -179,7 +179,7 @@ To update the theme:
 cp ~/.termux/colors.properties ~/.termux/colors.properties.backup
 
 # Download latest version
-curl -fsSL https://raw.githubusercontent.com/your-repo/termux-hacker-theme/main/colors.properties > ~/.termux/colors.properties
+curl -fsSL https://raw.githubusercontent.com/Termux-wolf-Theme/termux-hacker-theme/main/colors.properties > ~/.termux/colors.properties
 ```
 
 ## 📋 Requirements
@@ -223,3 +223,4 @@ If you encounter any issues:
 ---
 
 **Enjoy your new hacker-themed Termux experience!** 🎭✨
+
