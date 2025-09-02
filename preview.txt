@@ -1,0 +1,47 @@
+TERMUX HACKER THEME
+===================
+Developed By S.Tamilselvan Cybersecurity Researcher
+
+This is how your terminal will look with the hacker theme:
+
+┌──(Cyber㉿Wolf💀)-[~]
+└─$ 
+
+COLOR SCHEME:
+- Background: Dark black (#0a0a0a)
+- Main text: Bright green (#00ff00)
+- Username: Green (#00ff00)
+- Hostname: Red (#ff0000)
+- Path: Cyan (#00ffff)
+- Prompt symbols: Green (#00ff00)
+- Command output: White (#ffffff)
+
+FEATURES:
+✓ Hacker aesthetic with dark background
+✓ Yellow text emphasis for primary content
+✓ Enhanced ASCII art banner on startup
+✓ CyberWolf team branding and prompt
+✓ Blinking cursor and visual effects
+✓ Color-coded multi-line prompt
+✓ Enhanced aliases with colors
+✓ CyberWolf team commands (cyberwolf, wolf, hack, secure)
+✓ File icons and format detection (📜📦📄🖼️🎥🎵💻⚙️🗄️📋📁)
+✓ Advanced file management (lse, fi, tree, findimg, findvid, etc.)
+✓ Wolf AI Integration with Gemini 2.0 Flash API
+✓ Wolf Hunt Mode (5-phase intelligence gathering)
+✓ Speech Commands (sp <text>, listen, speak)
+✓ Auto Speech functionality
+✓ Enhanced Security Commands (hack scan, secure audit)
+✓ Man page colorization
+✓ Touch-friendly cursor and selection
+
+ASCII ART BANNER:
+The theme includes the beautiful ASCII art you provided,
+displayed in yellow text when the terminal starts.
+
+INSTALLATION:
+1. Run: chmod +x install.sh && ./install.sh
+2. Or manually copy files to ~/.termux/
+3. Restart Termux to see the changes
+
+ENJOY YOUR NEW HACKER THEME! 🎭✨
